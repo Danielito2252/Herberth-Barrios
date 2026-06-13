@@ -14,7 +14,7 @@ Estudiante de ingenieria especializado en QA Automation y DevSecOps. Diseño y d
 | 🧪 [cypress-e2e-suite](https://github.com/Danielito2252/cypress-e2e-suite) | Suite de Pruebas Integrales | Cypress, E2E Testing, API Testing |
 | ⛓️ [Jenkins-Devsecops-Pipeline](https://github.com/Danielito2252/Jenkins-Devsecops-Pipeline) | Orquestación Integrada (CI/CD) | Jenkinsfile, Pipelines, Automation |
 | 🛠️ [Cypress-Framework](https://github.com/Danielito2252/Cypress-Framework) | Arquitectura Base de Pruebas | Cypress, Page Object Model (POM) |
-| 📈 [tuleapp-qa-workflow](https://github.com/Danielito2252/QA-Workflow) | Gestión Ágil y Gobernanza | Trazabilidad, Métricas QA, Agile |
+| 📈 [QA-Workflow](https://github.com/Danielito2252/QA-Workflow) | Gestión Ágil y Gobernanza | Trazabilidad, Métricas QA, Agile |
 | 🐳 [Docker-Infra](https://github.com/Danielito2252/Docker-Infra) | Infraestructura como Código (IaC) | Docker Compose, Redes, DAST (ZAP) |
 
 ---
